@@ -1,12 +1,13 @@
-# Basic Todo App made with Vue. 
+# limni
 
-## Run project by Docker Compose (will be available at localhost:8081)
+A collection of samples show in my [Youtube](https://www.youtube.com/channel/UCMZcg3titeO2OWU-afSzzdQ).
+
+## Getting started
 ```
-docker-compose up -d --build
+$ npm install
+$ cd <sample-subfolder>
+$ npm run serve
 ```
 
-## Run project local
-```
-npm install && npm run serve
-```
-
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
